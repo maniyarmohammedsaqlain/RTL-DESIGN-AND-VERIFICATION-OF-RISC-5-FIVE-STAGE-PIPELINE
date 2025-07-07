@@ -17,7 +17,7 @@ Key Highlights:
 
 ✅ Developed a dedicated functional coverage class using SystemVerilog covergroups to monitor Instruction opcode and function field coverage.
 
-✅ Achieved over 92% functional and code coverage, ensuring verification completeness and instruction diversity.
+✅ Achieved over 95% functional and code coverage, ensuring verification completeness and instruction diversity.
 
 ![COVERAGE](https://github.com/user-attachments/assets/22d37e1e-90ca-4fa3-afdf-c03aef4cec5e)
 
