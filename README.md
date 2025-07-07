@@ -21,4 +21,4 @@ Key Highlights:
 
 ![COVERAGE](https://github.com/user-attachments/assets/22d37e1e-90ca-4fa3-afdf-c03aef4cec5e)
 
-Achieved successful simulation and validation using QuestaSim.
+✅ Achieved successful simulation and validation using QuestaSim.
